@@ -112,4 +112,6 @@ After Phase 7. CORS, token storage and live seat updates only make sense with a 
 
 | Topic | Status |
 | --- | --- |
-| 1 — How the web works | In progress |
+| 1 — How the web works | Done |
+| 2 — Java for backend work | Done (demos in `fundamentals/topic02`) |
+| 3 — Maven | Next |
